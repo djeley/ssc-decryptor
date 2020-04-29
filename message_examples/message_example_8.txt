@@ -3,7 +3,7 @@
 #
 # Notes: This is quite a slow one to decrypt.
 #
-# `python3 decryptor.py -f message_examples/message_example_8.txt -o LONGEST_TO_SHORTEST`
+# `python3 decrypt.py -f message_examples/message_example_8.txt -o LONGEST_TO_SHORTEST`
 #
 # Total products examined: 4852952
 #

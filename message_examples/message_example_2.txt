@@ -9,13 +9,13 @@
 # This example is quicker (fewer products examined) when sorting words being examined by fewest to most plaintext matches 
 # for each word:
 #
-# python3 decryptor.py -f message_examples/message_example_2.txt -o LONGEST_TO_SHORTEST
+# python3 decrypt.py -f message_examples/message_example_2.txt -o LONGEST_TO_SHORTEST
 # Decrypting...
 #
 # Total products examined: 25033
 #
 #
-# python3 decryptor.py -f message_examples/message_example_2.txt -o FEWEST_TO_MOST_MATCHES
+# python3 decrypt.py -f message_examples/message_example_2.txt -o FEWEST_TO_MOST_MATCHES
 # Decrypting...
 #
 # Total products examined: 10259

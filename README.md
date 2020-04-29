@@ -140,12 +140,12 @@ optional arguments:
 
 __Example usage:__
 
-`python3 decryptor.py -f message_examples/message_example_10.txt`
+`python3 decrypt.py -f message_examples/message_example_10.txt`
 
 Attempts to decrypt the contents of the `message_examples/message_example_10.txt` file using default word ordering LONGEST_TO_SHORTEST.
 
 
-`python3 decryptor.py -f message_examples/message_example_10.txt -o FEWEST_TO_MOST_MATCHES`
+`python3 decrypt.py -f message_examples/message_example_10.txt -o FEWEST_TO_MOST_MATCHES`
 
 Attempts to decrypt the contents of the message_examples/message_example_10.txt` file using FEWEST_TO_MOST_MATCHES word ordering.
 

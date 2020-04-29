@@ -4,19 +4,19 @@
 # Note: This example is quicker (fewer products examined) when sorting words being examined by number of plaintext matches divided
 # by the length of each word:
 #
-# python3 decryptor.py -f message_examples/message_example_5.txt -o FEWEST_TO_MOST_MATCHES
+# python3 decrypt.py -f message_examples/message_example_5.txt -o FEWEST_TO_MOST_MATCHES
 # Decrypting...
 #
 # Total products examined: 11003
 #
 #
-# python3 decryptor.py -f message_examples/message_example_5.txt -o LONGEST_TO_SHORTEST
+# python3 decrypt.py -f message_examples/message_example_5.txt -o LONGEST_TO_SHORTEST
 # Decrypting...
 #
 # Total products examined: 11232
 #
 #
-# python3 decryptor.py -f message_examples/message_example_5.txt -o MATCHES_DIVIDED_BY_LENGTH
+# python3 decrypt.py -f message_examples/message_example_5.txt -o MATCHES_DIVIDED_BY_LENGTH
 # Decrypting...
 #
 # Total products examined: 6339

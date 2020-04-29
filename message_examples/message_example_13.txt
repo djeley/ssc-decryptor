@@ -8,7 +8,7 @@
 # and therefore the first word examined. This example demonstrates what happens if an encrypted word has
 # no matching patterns at all - and in this case - the longest and first word. 
 #
-# python3 decryptor.py -f message_examples/message_example_13.txt -o LONGEST_TO_SHORTEST -v
+# python3 decrypt.py -f message_examples/message_example_13.txt -o LONGEST_TO_SHORTEST -v
 #
 
 Xvp tznx actzin eqjkxzozbmnx mu vmnxzqj zwpn vmn actp opnn xz wvcx vp lml xvcu xz wvcx vp ncml cul xz xvp npuncxmzuco wcj mu wvmev vp ncml mx, cul xvmn wcn tznx kpqapexoj mu evcqcexpq, azq Vpqypqx Znyzqup Jcqlopj wcn kpqvckn xvp tznx pubcbmub cqxmeiocxp cul xpevumezozqpl kpqnzucomxj mu xvp yinmupnn.
