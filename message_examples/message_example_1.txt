@@ -1,0 +1,9 @@
+#
+# Source: http://practicalcryptography.com/ciphers/simple-substitution-cipher/
+#
+# Note: 'Singhs' [SIC] isn't in the provided dictionary.txt file.
+#
+
+Kez axprtz anbakxknkxij cxrezh xa u cxrezh keuk eua bzzj xj naz sih pujd enjghzga is dzuha (uj zqczttzjk exakihd xa fxlzj xj Axpij Axjfea 'kez Cigz Biiy'). Xk buaxcuttd cijaxaka is anbakxknkxjf zlzhd rtuxjkzqk ceuhuckzh sih u gxsszhzjk cxrezhkzqk ceuhuckzh. Xk gxsszha ship kez cuzauh cxrezh xj keuk kez cxrezh utreubzk xa jik axprtd kez utreubzk aexskzg, xk xa ciprtzkztd onpbtzg.
+
+Kez axprtz anbakxknkxij cxrezh isszha lzhd txkktz cippnjxcukxij azcnhxkd, ujg xk wxtt bz aeiwj keuk xk cuj bz zuaxtd bhiyzj zlzj bd eujg, zarzcxuttd ua kez pzaaufza bzcipz tijfzh (pihz keuj azlzhut enjghzg cxrezhkzqk ceuhuckzha).

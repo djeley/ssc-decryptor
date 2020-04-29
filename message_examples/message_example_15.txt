@@ -1,0 +1,17 @@
+#
+# Example of a short message that can be almost successfully decrypted. 
+#
+# Ocubicbp has 53 word pattern matches
+# Pubomnv  has 8585 word pattern matches
+#
+# Can deduce: 
+#
+# Ocubicbp to 2 matches
+# Pubomnv  to 1 match
+#
+# The decrypted output will be:
+#
+# English Lang[r,u]age
+#
+
+Pubomnv Ocubicbp

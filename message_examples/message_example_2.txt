@@ -1,0 +1,24 @@
+#
+# Plaintext:
+#
+# "Simon Singh's patterns accuracy extremely accuracy"
+#
+# Notes: This example is short but has some nice long words. There are also two duplicate words. There are not enough 
+# characters to decipher all of them.
+#
+# This example is quicker (fewer products examined) when sorting words being examined by fewest to most plaintext matches 
+# for each word:
+#
+# python3 decryptor.py -f message_examples/message_example_2.txt -o LONGEST_TO_SHORTEST
+# Decrypting...
+#
+# Total products examined: 25033
+#
+#
+# python3 decryptor.py -f message_examples/message_example_2.txt -o FEWEST_TO_MOST_MATCHES
+# Decrypting...
+#
+# Total products examined: 10259
+#
+
+Axpij Axjfe'a rukkzhja uccnhucd zqkhzpztd uccnhucd

@@ -1,0 +1,7 @@
+#
+# Example of a short message that can be successfully decrypted. 
+#
+# To be successful, the words have to uncommon patterns and a good variation of letters. 
+# 
+
+kozrmgvcg xrksvigvcg

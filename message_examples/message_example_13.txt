@@ -1,0 +1,14 @@
+#
+# Plaintext:
+# The most famous cryptologist in history owes his fame less to what he did than to what he said and to the sensational way in which he said it, and this was most perfectly in character, for Herbert Osborne Yardley was perhaps the most engaging articulate and technicolored personality in the business.
+# 
+# Source: The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet by David Kahn
+#
+# Note: The word "technicolored" is not present in dictionary.txt. However, this is the longest word, 
+# and therefore the first word examined. This example demonstrates what happens if an encrypted word has
+# no matching patterns at all - and in this case - the longest and first word. 
+#
+# python3 decryptor.py -f message_examples/message_example_13.txt -o LONGEST_TO_SHORTEST -v
+#
+
+Xvp tznx actzin eqjkxzozbmnx mu vmnxzqj zwpn vmn actp opnn xz wvcx vp lml xvcu xz wvcx vp ncml cul xz xvp npuncxmzuco wcj mu wvmev vp ncml mx, cul xvmn wcn tznx kpqapexoj mu evcqcexpq, azq Vpqypqx Znyzqup Jcqlopj wcn kpqvckn xvp tznx pubcbmub cqxmeiocxp cul xpevumezozqpl kpqnzucomxj mu xvp yinmupnn.

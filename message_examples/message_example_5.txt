@@ -1,0 +1,28 @@
+#
+# Source: http://quodid.com/quotes/7915/bertrand-russell/if-a-man-is-offered-a-fact-which
+#
+# Note: This example is quicker (fewer products examined) when sorting words being examined by number of plaintext matches divided
+# by the length of each word:
+#
+# python3 decryptor.py -f message_examples/message_example_5.txt -o FEWEST_TO_MOST_MATCHES
+# Decrypting...
+#
+# Total products examined: 11003
+#
+#
+# python3 decryptor.py -f message_examples/message_example_5.txt -o LONGEST_TO_SHORTEST
+# Decrypting...
+#
+# Total products examined: 11232
+#
+#
+# python3 decryptor.py -f message_examples/message_example_5.txt -o MATCHES_DIVIDED_BY_LENGTH
+# Decrypting...
+#
+# Total products examined: 6339
+#
+
+Sy l nlx sr pyyacao l ylwj eiswi upar lulsxrj isr sxrjsxwjr, ia esmm rwctjsxsza sj wmpramh, lxo txmarr 
+jia aqsoaxwa sr pqaceiamnsxu, ia esmm caytra jp famsaqa sj. Sy, px jia pjiac ilxo, ia sr pyyacao rpnajisxu 
+eiswi lyypcor l calrpx ypc lwjsxu sx lwwpcolxwa jp isr sxrjsxwjr, ia esmm lwwabj sj aqax px jia rmsuijarj aqsoaxwa. 
+Jia pcsusx py nhjir sr agbmlsxao sx jisr elh. -Facjclxo Ctrramm

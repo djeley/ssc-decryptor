@@ -1,0 +1,11 @@
+#
+# The Spy Who Came in from the Cold by John le Carré
+#
+# Notes: This is quite a slow one to decrypt.
+#
+# `python3 decryptor.py -f message_examples/message_example_8.txt -o LONGEST_TO_SHORTEST`
+#
+# Total products examined: 4852952
+#
+
+PIR ZCRKLEZD IZDORO BRZCZN ZDFPIRK EQH FS EFSSRR ZDO NZLO, "UIW OFD'P WFQ MF GZEA PF NBRRH? UR EZD KLDM WFQ LS IR NIFUN QH."
