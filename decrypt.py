@@ -45,13 +45,13 @@ def main(args):
     logger.info("Decrypting...\n")
     begin_decrypt = time.perf_counter()
 
-    # Invoke the main decipher function.
+    # Invoke the main decryptor function.
     alphabets_map = decryptor.deduce_ciphertext_alphabet(encrypted_message, examine_word_order)
 
     # Print the alphabets table.
     _print_alphabets(alphabets_map)
 
-    # Decrypt the message and print.
+    # Decrypt (translate) the message.
     decrypted_message = decryptor.decrypt_message(encrypted_message, alphabets_map)
 
     end_decrypt = time.perf_counter()

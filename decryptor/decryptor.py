@@ -37,10 +37,6 @@ class SscDecryptor:
         encrypted_words = self.__get_normalised_encrypted_words(encrypted_message)
         logger.info(f"Normalised encrypted words: {encrypted_words}\n")
 
-        # Order by longest to shortest encrypted word.
-        encrypted_words = sorted(encrypted_words, key=lambda enc_word: len(enc_word), reverse=True)
-        logger.info(f"Ordered encrypted words: {encrypted_words}\n")
-
         # This is how many unique alphabetic characters we need to decipher.
         unique_encrypted_characters = self.__unique_alpha_chars_in_string(''.join(encrypted_words))
         logger.info(f"Unique alphabetic characters: {unique_encrypted_characters}\n")
@@ -244,7 +240,8 @@ class SscDecryptor:
                 return OrderedDict(sorted(encrypted_word_and_plaintext_matches.items(), key=lambda item: len(item[1])/len(item[0]), reverse=False))
         else:
             # Default: ExamineOrder.LONGEST_TO_SHORTEST - Don't pre-fetch matches.
-            return OrderedDict([(key, None) for key in encrypted_words])
+            sorted_encrypted_words = sorted(encrypted_words, key=lambda enc_word: len(enc_word), reverse=True)
+            return OrderedDict([(key, None) for key in sorted_encrypted_words])
 
     @staticmethod
     def __unique_alpha_chars_in_string(string: str) -> int:
